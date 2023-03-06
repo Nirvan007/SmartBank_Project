@@ -62,6 +62,8 @@ Smart bank is a connected power bank which has various features like two-way ada
 * Battery NTC protection
 
 # Tools Used
-### EasyEDA: EasyEDA is a web-based EDA tool suite that enables hardware engineers to design, simulate, share - publicly and privately - and discuss schematics,       simulations and printed circuit boards.
+### EasyEDA
+EasyEDA is a web-based EDA tool suite that enables hardware engineers to design, simulate, share - publicly and privately - and discuss schematics,       simulations and printed circuit boards.
 
-### Arduino IDE: Arduino Integrated Development Environment - or Arduino Software (IDE) - contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them.
+### Arduino IDE 
+Arduino Integrated Development Environment - or Arduino Software (IDE) - contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them.
