@@ -45,4 +45,14 @@ Smart bank is a connected power bank which has various features like two-way ada
 * Injoinic Technology IP5328P with Fully Integrated Bi directional PD3.0 and Fast Charge Power Bank SOC
 * QFN-48 Package
 * Support 5V, 9V, 12V voltage input/output
+* Integrated USB Power Delivery (PD2.0/PD2.0) protocol
+* Up to 5.0A charging current at battery port
+* Adaptive charging current adjustment
+* Discharge: 5V/3.1A (15W) 9V/2.0A (18W) 12V/1.5A (18W)
+* I2C interface for flexible and low cost customized solution
+* Single inductor for charging and discharging
+* Output overcurrent, overvoltage and short circuit protection
+* Battery overcharge, over discharge and overcurrent protection
+* Over temperature protection
+* Battery NTC protection
 
