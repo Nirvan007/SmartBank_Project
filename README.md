@@ -1,7 +1,8 @@
 # SmartBank Project
 # Table of Contents
-
-* [Unique Features](#Unique Features)
+* [Introduction](#Introduction)
+* [Specifications](#Specifications)
+* [Unique_Features](#Unique_Features)
 * [Microcontroller Specifications](#Microcontroller Specifications)
 * [Power Bank SoC Specifications](#Power Bank SoC Specifications)
 
@@ -21,7 +22,7 @@ Smart bank is a connected power bank which has various features like two-way ada
 * Simultaneous fast charging (13W per port)
 * Built in high brightness flash
 
-# Unique Features
+# Unique_Features
 * Find My Device
 * Bluetooth Low Energy v5.0 connectivity
 * Device parameter monitoring using SmartBank Connect App
