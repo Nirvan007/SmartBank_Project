@@ -1,7 +1,6 @@
 # SmartBank Project
 # Table of Contents
-* [Introduction](#Introduction)
-* [Specifications](#Specifications)
+
 * [Unique Features](#Unique Features)
 * [Microcontroller Specifications](#Microcontroller Specifications)
 * [Power Bank SoC Specifications](#Power Bank SoC Specifications)
