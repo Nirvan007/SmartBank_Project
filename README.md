@@ -6,6 +6,10 @@
 * [Microcontroller Specifications](#Microcontroller-Specifications)
 * [Power Bank SoC Specifications](#Power-Bank-SoC-Specifications)
 * [Tools Used](#Tools-Used)
+  1. [EasyEDA](#EasyEDA)
+  2. [Arduino IDE](#Arduino-IDE)
+  3. [Fritzing](#Fritzing)
+  4. [Fusion 360](#Fusion-360)
 
 # Introduction
 Smart bank is a connected power bank which has various features like two-way adaptive fast charging, 12 – layer protection, find my device, simultaneous fast charging support, and it is also integrated with Qualcomm’s Quick Charge 3.0 technology. It has Bluetooth LE 5.0 connectivity with a mobile application through which the device’s parameters like battery status, battery temperature, charge discharge cycles, time left till 0%, etc. can be monitored.
@@ -58,3 +62,6 @@ Smart bank is a connected power bank which has various features like two-way ada
 * Battery NTC protection
 
 # Tools Used
+1. EasyEDA: EasyEDA is a web-based EDA tool suite that enables hardware engineers to design, simulate, share - publicly and privately - and discuss schematics,       simulations and printed circuit boards.
+
+2. Arduino IDE: Arduino Integrated Development Environment - or Arduino Software (IDE) - contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them.
