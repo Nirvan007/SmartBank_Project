@@ -67,15 +67,18 @@ Smart bank is a connected power bank which has various features like two-way ada
 ## Tools Used
 #### EasyEDA
 EasyEDA is a web-based EDA tool suite that enables hardware engineers to design, simulate, share publicly and privately and discuss schematics, simulations and printed circuit boards.
-For more details refer: <https://easyeda.com/>
+* For more details refer: <https://easyeda.com/>
 
 #### Arduino IDE 
-Arduino Integrated Development Environment or Arduino Software (IDE) contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them. For more details refer: <https://www.arduino.cc/en/software>
+Arduino Integrated Development Environment or Arduino Software (IDE) contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them. 
+* For more details refer: <https://www.arduino.cc/en/software>
 
 #### Fritzing
-Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone. We offer a software tool, a community website and services in the spirit of Processing and Arduino, fostering a creative ecosystem that allows users to document their prototypes, share them with others, teach electronics in a classroom, and layout and manufacture professional PCBs. For more details refer: <https://fritzing.org/>
+Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone. We offer a software tool, a community website and services in the spirit of Processing and Arduino, fostering a creative ecosystem that allows users to document their prototypes, share them with others, teach electronics in a classroom, and layout and manufacture professional PCBs. 
+* For more details refer: <https://fritzing.org/>
 
 ####Autodesk Fusion 360
-Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platform for professional product design and manufacturing. For more details refer: <https://www.autodesk.in/products/fusion-360/overview>
+Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platform for professional product design and manufacturing. 
+* For more details refer: <https://www.autodesk.in/products/fusion-360/overview>
 
 ## Reference SoC Circuit Diagram
