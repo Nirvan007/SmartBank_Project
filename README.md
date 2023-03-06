@@ -2,9 +2,10 @@
 # Table of Contents
 * [Introduction](#Introduction)
 * [Specifications](#Specifications)
-* [Unique Features](#Unique_Features)
-* [Microcontroller Specifications](#Microcontroller_Specifications)
-* [Power Bank SoC Specifications](#Power_Bank_SoC_Specifications)
+* [Unique Features](#Unique-Features)
+* [Microcontroller Specifications](#Microcontroller-Specifications)
+* [Power Bank SoC Specifications](#Power-Bank-SoC-Specifications)
+* [Tools Used](#Tools-Used)
 
 # Introduction
 Smart bank is a connected power bank which has various features like two-way adaptive fast charging, 12 – layer protection, find my device, simultaneous fast charging support, and it is also integrated with Qualcomm’s Quick Charge 3.0 technology. It has Bluetooth LE 5.0 connectivity with a mobile application through which the device’s parameters like battery status, battery temperature, charge discharge cycles, time left till 0%, etc. can be monitored.
@@ -22,12 +23,12 @@ Smart bank is a connected power bank which has various features like two-way ada
 * Simultaneous fast charging (13W per port)
 * Built in high brightness flash
 
-# Unique_Features
+# Unique Features
 * Find My Device
 * Bluetooth Low Energy v5.0 connectivity
 * Device parameter monitoring using SmartBank Connect App
 
-# Microcontroller_Specifications
+# Microcontroller Specifications
 * Espressif System's ESP32-C3FH4
 * 32-bit RISC-V single-core processor
 * Clock speed up to 160 MHz
@@ -41,7 +42,7 @@ Smart bank is a connected power bank which has various features like two-way ada
   * GPIO, SPI, UART, I2C, I2S, LED PWM controller, USB Serial/JTAG controller,Temperature sensor, SAR ADC
 * Antenna: On-board PCB antenna (ESP32-C3-MINI-1)
 
-# Power_Bank_SoC_Specifications
+# Power Bank SoC Specifications
 * Injoinic Technology IP5328P with Fully Integrated Bi directional PD3.0 and Fast Charge Power Bank SOC
 * QFN-48 Package
 * Support 5V, 9V, 12V voltage input/output
@@ -56,3 +57,4 @@ Smart bank is a connected power bank which has various features like two-way ada
 * Over temperature protection
 * Battery NTC protection
 
+# Tools Used
