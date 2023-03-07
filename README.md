@@ -23,6 +23,7 @@ SmartBank Project<a name="TOP"></a>
   * [3D Case Prototype Model](#3D-Case-Prototype-Model)
   * [Fabricated PCB](#Fabricated-PCB)
 * [Microcontroller Interfacing](#Microcontroller-Interfacing)
+* [SmartBank Connect Application UI Flow](#SmartBank-Connect-Application-UI-Flow)
 
 ## Introduction
 Smart bank is a connected power bank which has various features like two-way adaptive fast charging, 12 – layer protection, find my device, simultaneous fast charging support, and it is also integrated with Qualcomm’s Quick Charge 3.0 technology. It has Bluetooth LE 5.0 connectivity with a mobile application through which the device’s parameters like battery status, battery temperature, charge discharge cycles, time left till 0%, etc. can be monitored.
@@ -61,6 +62,8 @@ Fritzing is an open-source hardware initiative that makes electronics accessible
 #### Autodesk Fusion 360
 Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platform for professional product design and manufacturing. 
 * For more details refer: <https://www.autodesk.in/products/fusion-360/overview>
+
+## Methodology
 
 ## Microcontroller Specifications
 * Espressif System's ESP32-C3FH4
@@ -132,8 +135,8 @@ Bottom Layer
 ## Microcontroller Interfacing
 
 ## SmartBank Connect Application UI Flow
-Onboarding (Start-up) screen
-![image](https://user-images.githubusercontent.com/127144315/223569701-08bf7130-c0d9-4498-b507-af49af3a757e.png)
+* Onboarding (Start-up) screen
+  ![image](https://user-images.githubusercontent.com/127144315/223569701-08bf7130-c0d9-4498-b507-af49af3a757e.png)
 
 Search and Scan for devices
 ![image](https://user-images.githubusercontent.com/127144315/223569824-7ac3801d-94c6-4396-82cc-a1c5ce58d470.png)
@@ -143,10 +146,17 @@ Scan Fail/Error Connecting to device
 
 Main Dashboard
 ![image](https://user-images.githubusercontent.com/127144315/223570145-b830e62d-bf16-46ae-a51e-5ef9e7b46c58.png)
+
+Dashboard and Find My Device
 ![image](https://user-images.githubusercontent.com/127144315/223570180-042728c7-9de8-4bcd-9562-d5047397ecb2.png)
 
 Settings, Connected Devices and Notification
 ![image](https://user-images.githubusercontent.com/127144315/223570371-b78765a1-8d30-4d6c-ba72-27583ee36ffc.png)
 
+Usage History
+![IMG-20220523-WA0009](https://user-images.githubusercontent.com/127144315/223571704-e967b5e7-0977-4336-8e10-0d493433b5e4.jpg)
+
 Data Reset/Accessibilty Functions and T&C
 ![image](https://user-images.githubusercontent.com/127144315/223570588-7ff5fe9d-addc-4232-a1ac-8625e992a580.png)
+
+## 
