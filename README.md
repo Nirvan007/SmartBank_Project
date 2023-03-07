@@ -136,6 +136,7 @@ Bottom Layer
 
 ## SmartBank Connect Application UI Flow
 * Onboarding (Start-up) screen
+
   ![image](https://user-images.githubusercontent.com/127144315/223569701-08bf7130-c0d9-4498-b507-af49af3a757e.png)
 
 Search and Scan for devices
@@ -159,4 +160,6 @@ Usage History
 Data Reset/Accessibilty Functions and T&C
 ![image](https://user-images.githubusercontent.com/127144315/223570588-7ff5fe9d-addc-4232-a1ac-8625e992a580.png)
 
-## 
+## References
+
+## Acknowledgement
