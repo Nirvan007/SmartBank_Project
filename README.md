@@ -1,4 +1,4 @@
-SmartBank Project<a name="TOP"></a>
+SmartBank Project Phase - I <a name="TOP"></a>
 ===================
 
 ## Table of Contents
@@ -140,11 +140,13 @@ Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platfor
 Top Layer
 
 ![image](https://user-images.githubusercontent.com/127144315/223562499-f002172f-948f-4635-8494-f3c16681e8b9.png)
+
 ![image](https://user-images.githubusercontent.com/127144315/223562064-7aebca20-e865-46a4-b882-e0b92bd076da.png)
 
 Bottom Layer
 
 ![image](https://user-images.githubusercontent.com/127144315/223562559-14fdf376-e826-458a-b7b0-674ca9e3361d.png)
+
 ![image](https://user-images.githubusercontent.com/127144315/223561978-77fc8a1d-ea9c-48ac-8302-9f5ba9f3dc8b.png)
 
 #### 3D PCB Model
@@ -161,7 +163,11 @@ Bottom Layer
 ![image](https://user-images.githubusercontent.com/127144315/223567942-972300dd-691a-43cc-b769-739083b83d3f.png)
 
 ## Microcontroller Interfacing
-* 
+* Used I2C protocol to interface ESP32C3 Microcontroller to IP5328P Power Bank SoC
+* Used BLE 5.0 for Connectivity with the SmartBank Mobile Application
+* Interfaced DS18B20 Digital temperature sensor to monitor the Power Bank's battery temperature
+* LED and Buzzer for the Find My Device Feature as an output device
+* Push Button for Turning ON/OFF, Torch, and Connectivity
 
 ## SmartBank Connect Application UI Flow
 #### Onboarding (Start-up) screen
