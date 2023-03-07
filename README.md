@@ -12,10 +12,10 @@ SmartBank Project<a name="TOP"></a>
   * [Autodesk Fusion 360](#Autodesk-Fusion-360)
 * [Microcontroller Specifications](#Microcontroller-Specifications)
 * [Power Bank SoC Specifications](#Power-Bank-SoC-Specifications)
-  * [Reference SoC Application Circuit Diagram](#Reference-SoC-Application-Circuit-Diagram)
   * [SoC Pin Definition](#SoC-Pin-Definition)
   * [SoC I2C Connection](#SoC-I2C-Connection)
   * [SoC Component List](#SoC-Component-List)
+  * [Reference SoC Application Circuit Diagram](#Reference-SoC-Application-Circuit-Diagram)
 * [SmartBank Charging Module](#SmartBank-Charging-Module)
   * [Schematic](#Schematic)
   * [PCB](#PCB)
@@ -94,9 +94,6 @@ Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platfor
 * Over temperature protection
 * Battery NTC protection
 
-## Reference SoC Application Circuit Diagram
-![SoC Reference Circuit](https://user-images.githubusercontent.com/127144315/223557157-5dd1aef8-1442-42fd-9f8d-2e75b665941f.png)
-
 ## SoC Pin Definition
 ![image](https://user-images.githubusercontent.com/127144315/223557740-36cd38b4-8c98-4057-8497-7916965bfec5.png)
 
@@ -105,6 +102,9 @@ Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platfor
 
 ## SoC Component List
 ![image](https://user-images.githubusercontent.com/127144315/223559292-1a4c5e33-c9f5-49dd-859c-daf2097a57c7.png)
+
+## Reference SoC Application Circuit Diagram
+![SoC Reference Circuit](https://user-images.githubusercontent.com/127144315/223557157-5dd1aef8-1442-42fd-9f8d-2e75b665941f.png)
 
 ## SmartBank Charging Module
 #### Schematic
