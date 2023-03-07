@@ -20,7 +20,9 @@ SmartBank Project<a name="TOP"></a>
   * [Schematic](#Schematic)
   * [PCB](#PCB)
   * [3D PCB Model](#3D-PCB-Model)
-
+  * [3D Case Prototype Model](#3D-Case-Prototype-Model)
+  * [Fabricated PCB](#Fabricated-PCB)
+* [Microcontroller Interfacing](#Microcontroller-Interfacing)
 
 ## Introduction
 Smart bank is a connected power bank which has various features like two-way adaptive fast charging, 12 – layer protection, find my device, simultaneous fast charging support, and it is also integrated with Qualcomm’s Quick Charge 3.0 technology. It has Bluetooth LE 5.0 connectivity with a mobile application through which the device’s parameters like battery status, battery temperature, charge discharge cycles, time left till 0%, etc. can be monitored.
@@ -119,3 +121,32 @@ Bottom Layer
 ![image](https://user-images.githubusercontent.com/127144315/223563678-b7caccbc-5913-4156-8b43-8a8badca0208.png)
 ![image](https://user-images.githubusercontent.com/127144315/223563867-22ac1ca5-fe47-4f34-ab56-8b9cfc9a6b94.png)
 ![image](https://user-images.githubusercontent.com/127144315/223563956-5cb6a7f8-9836-47d8-9def-073787bb7be8.png)
+
+#### 3D Case Prototype Model
+![CASE_V1](https://user-images.githubusercontent.com/127144315/223565589-ad6fab32-bca8-4f64-9298-f44475089ee4.png)
+
+#### Fabricated PCB
+![image](https://user-images.githubusercontent.com/127144315/223567838-76239e7f-ab74-4ea7-9fbd-33b273ab107b.png)
+![image](https://user-images.githubusercontent.com/127144315/223567942-972300dd-691a-43cc-b769-739083b83d3f.png)
+
+## Microcontroller Interfacing
+
+## SmartBank Connect Application UI Flow
+Onboarding (Start-up) screen
+![image](https://user-images.githubusercontent.com/127144315/223569701-08bf7130-c0d9-4498-b507-af49af3a757e.png)
+
+Search and Scan for devices
+![image](https://user-images.githubusercontent.com/127144315/223569824-7ac3801d-94c6-4396-82cc-a1c5ce58d470.png)
+
+Scan Fail/Error Connecting to device
+![image](https://user-images.githubusercontent.com/127144315/223570078-9febf7a9-cc0c-4982-aec5-595f18282880.png)
+
+Main Dashboard
+![image](https://user-images.githubusercontent.com/127144315/223570145-b830e62d-bf16-46ae-a51e-5ef9e7b46c58.png)
+![image](https://user-images.githubusercontent.com/127144315/223570180-042728c7-9de8-4bcd-9562-d5047397ecb2.png)
+
+Settings, Connected Devices and Notification
+![image](https://user-images.githubusercontent.com/127144315/223570371-b78765a1-8d30-4d6c-ba72-27583ee36ffc.png)
+
+Data Reset/Accessibilty Functions and T&C
+![image](https://user-images.githubusercontent.com/127144315/223570588-7ff5fe9d-addc-4232-a1ac-8625e992a580.png)
