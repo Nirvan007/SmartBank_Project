@@ -14,7 +14,7 @@ SmartBank Project<a name="TOP"></a>
 * [Power Bank SoC Specifications](#Power-Bank-SoC-Specifications)
   * [SoC Pin Definition](#SoC-Pin-Definition)
   * [SoC I2C Connection](#SoC-I2C-Connection)
-  * [SoC Component List](#SoC-Component-List)
+  * [SoC Application Component List](#SoC-Application-Component-List)
   * [Reference SoC Application Circuit Diagram](#Reference-SoC-Application-Circuit-Diagram)
 * [SmartBank Charging Module](#SmartBank-Charging-Module)
   * [Schematic](#Schematic)
@@ -23,7 +23,9 @@ SmartBank Project<a name="TOP"></a>
   * [3D Case Prototype Model](#3D-Case-Prototype-Model)
   * [Fabricated PCB](#Fabricated-PCB)
 * [Microcontroller Interfacing](#Microcontroller-Interfacing)
-* [SmartBank Connect Application UI Flow](#SmartBank-Connect-Application-UI-Flow)
+* [SmartBank Connect Application UI Flow](#SmartBank-Connect-Application-UI-Flow
+* [References](#References)
+* [Acknowledgement](#Acknowledgement)
 
 ## Introduction
 Smart bank is a connected power bank which has various features like two-way adaptive fast charging, 12 – layer protection, find my device, simultaneous fast charging support, and it is also integrated with Qualcomm’s Quick Charge 3.0 technology. It has Bluetooth LE 5.0 connectivity with a mobile application through which the device’s parameters like battery status, battery temperature, charge discharge cycles, time left till 0%, etc. can be monitored.
@@ -100,7 +102,7 @@ Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platfor
 ## SoC I2C Connection
 ![image](https://user-images.githubusercontent.com/127144315/223559000-46c6d3b1-e2b1-4314-a11c-d28ab26bb6c2.png)
 
-## SoC Component List
+## SoC Application Component List
 ![image](https://user-images.githubusercontent.com/127144315/223559292-1a4c5e33-c9f5-49dd-859c-daf2097a57c7.png)
 
 ## Reference SoC Application Circuit Diagram
@@ -161,5 +163,14 @@ Bottom Layer
 ![image](https://user-images.githubusercontent.com/127144315/223570588-7ff5fe9d-addc-4232-a1ac-8625e992a580.png)
 
 ## References
+1. http://www.injoinic.com/?lang=en-us
+2. https://www.mouser.in/
+3. https://www.lcsc.com/
 
 ## Acknowledgement
+#### Project Mentors
+1. Dr. Manoj Sankhe, BTI EXTC In-charge
+2. Vishram Bapat, Founder, Databyte Services and Systems, http://databyteservices.com/
+
+#### Guidance
+1. Ajit Bapat, CE0, Dataserve Pvt. Ltd., https://www.rightocare.com/ 
