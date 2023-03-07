@@ -74,7 +74,7 @@ Figma is a powerful web-based design tool that helps you create anything, websit
 
 #### Flutter
 Flutter is a mobile app development platform created by Google. It allows developers to create web, desktop, and cross-platform apps that run on Android and iOS devices. Flutter uses a reactive programming language called Dart, making development faster and easier than traditional methods. Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
-* For more details refer:
+* For more details refer: https://flutter.dev/
 
 ## Methodology
 #### Hardware
