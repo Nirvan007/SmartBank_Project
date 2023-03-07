@@ -23,7 +23,7 @@ SmartBank Project<a name="TOP"></a>
   * [3D Case Prototype Model](#3D-Case-Prototype-Model)
   * [Fabricated PCB](#Fabricated-PCB)
 * [Microcontroller Interfacing](#Microcontroller-Interfacing)
-* [SmartBank Connect Application UI Flow](#SmartBank-Connect-Application-UI-Flow
+* [SmartBank Connect Application UI Flow](#SmartBank-Connect-Application-UI-Flow)
 * [References](#References)
 * [Acknowledgement](#Acknowledgement)
 
@@ -66,6 +66,29 @@ Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platfor
 * For more details refer: <https://www.autodesk.in/products/fusion-360/overview>
 
 ## Methodology
+#### Hardware
+1. Planning
+2. SWOT Analysis
+3. Feature Selection
+4. Schematic Designing
+5. PCB Designing
+6. Component Sourcing
+7. PCB Fabrication and Assembly
+8. Hardware Testing
+9. Firmware Programming
+10. Firmware Testing and Compatibility
+11. Outer Case Designing
+
+#### Software
+1. Planning
+2. Analysis
+3. Feature Selection
+4. UI Designing
+5. Front-end Programming
+6. Back-end Programming
+7. Application Testing
+8. Application-Hardware Connectivity Testing
+10. Version Control
 
 ## Microcontroller Specifications
 * Espressif System's ESP32-C3FH4
@@ -166,9 +189,9 @@ Bottom Layer
 ![image](https://user-images.githubusercontent.com/127144315/223570588-7ff5fe9d-addc-4232-a1ac-8625e992a580.png)
 
 ## References
-1. http://www.injoinic.com/?lang=en-us
-2. https://www.mouser.in/
-3. https://www.lcsc.com/
+ - [1] http://www.injoinic.com/?lang=en-us
+ - [2] https://www.mouser.in/
+ - [3] https://www.lcsc.com/
 
 ## Acknowledgement
 #### Project Mentors
@@ -176,4 +199,4 @@ Bottom Layer
 2. Vishram Bapat, Founder, Databyte Services and Systems, http://databyteservices.com/
 
 #### Guidance
-1. Ajit Bapat, CE0, Dataserve Pvt. Ltd., https://www.rightocare.com/ 
+* Ajit Bapat, CE0, Dataserve Pvt. Ltd., https://www.rightocare.com/ 
