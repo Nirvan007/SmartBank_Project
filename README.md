@@ -16,6 +16,10 @@ SmartBank Project<a name="TOP"></a>
   * [SoC Pin Definition](#SoC-Pin-Definition)
   * [SoC I2C Connection](#SoC-I2C-Connection)
   * [SoC Component List](#SoC-Component-List)
+* [SmartBank Charging Module](#SmartBank-Charging-Module)
+  * [Schematic](#Schematic)
+  * [PCB](#PCB)
+  * [3D PCB Model](#3D-PCB-Model)
 
 
 ## Introduction
