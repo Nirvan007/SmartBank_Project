@@ -10,6 +10,7 @@ SmartBank Project<a name="TOP"></a>
   * [Arduino IDE](#Arduino-IDE)
   * [Fritzing](#Fritzing)
   * [Autodesk Fusion 360](#Autodesk-Fusion-360)
+* [Methodology](#Methodology)
 * [Microcontroller Specifications](#Microcontroller-Specifications)
 * [Power Bank SoC Specifications](#Power-Bank-SoC-Specifications)
   * [SoC Pin Definition](#SoC-Pin-Definition)
