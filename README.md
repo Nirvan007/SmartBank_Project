@@ -82,3 +82,4 @@ Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platfor
 * For more details refer: <https://www.autodesk.in/products/fusion-360/overview>
 
 ## Reference SoC Circuit Diagram
+![Reference SoC Circuit Diagram](https://drive.google.com/file/d/1GZVIwl9SG_yTKU3LaEsxriF6STdfbp9H/view?usp=share_link "Reference SoC Circuit Diagram")
