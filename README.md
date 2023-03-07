@@ -10,6 +10,8 @@ SmartBank Project Phase - I <a name="TOP"></a>
   * [Arduino IDE](#Arduino-IDE)
   * [Fritzing](#Fritzing)
   * [Autodesk Fusion 360](#Autodesk-Fusion-360)
+  * [Figma](#Figma)
+  * [Flutter](#Flutter)
 * [Methodology](#Methodology)
 * [Microcontroller Specifications](#Microcontroller-Specifications)
 * [Power Bank SoC Specifications](#Power-Bank-SoC-Specifications)
@@ -65,6 +67,14 @@ Fritzing is an open-source hardware initiative that makes electronics accessible
 #### Autodesk Fusion 360
 Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platform for professional product design and manufacturing. 
 * For more details refer: <https://www.autodesk.in/products/fusion-360/overview>
+
+#### Figma
+Figma is a powerful web-based design tool that helps you create anything, websites, applications, logos, and much more. It is a vector graphics editor and prototyping tool that is often used for UI design.
+* For more details refer: https://www.figma.com/
+
+#### Flutter
+Flutter is a mobile app development platform created by Google. It allows developers to create web, desktop, and cross-platform apps that run on Android and iOS devices. Flutter uses a reactive programming language called Dart, making development faster and easier than traditional methods. Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
+* For more details refer:
 
 ## Methodology
 #### Hardware
