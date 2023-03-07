@@ -103,8 +103,15 @@ Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platfor
 
 #### PCB
 Top Layer
+![image](https://user-images.githubusercontent.com/127144315/223562499-f002172f-948f-4635-8494-f3c16681e8b9.png)
 ![image](https://user-images.githubusercontent.com/127144315/223562064-7aebca20-e865-46a4-b882-e0b92bd076da.png)
 
 Bottom Layer
+![image](https://user-images.githubusercontent.com/127144315/223562559-14fdf376-e826-458a-b7b0-674ca9e3361d.png)
 ![image](https://user-images.githubusercontent.com/127144315/223561978-77fc8a1d-ea9c-48ac-8302-9f5ba9f3dc8b.png)
 
+#### 3D PCB Model
+![image](https://user-images.githubusercontent.com/127144315/223563612-a5669cda-3361-4dfd-ac4c-55b85a82aaa7.png)
+![image](https://user-images.githubusercontent.com/127144315/223563678-b7caccbc-5913-4156-8b43-8a8badca0208.png)
+![image](https://user-images.githubusercontent.com/127144315/223563867-22ac1ca5-fe47-4f34-ab56-8b9cfc9a6b94.png)
+![image](https://user-images.githubusercontent.com/127144315/223563956-5cb6a7f8-9836-47d8-9def-073787bb7be8.png)
