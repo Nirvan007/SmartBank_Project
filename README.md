@@ -216,4 +216,4 @@ Bottom Layer
 2. Vishram Bapat, Founder, Databyte Services and Systems, http://databyteservices.com/
 
 #### Guidance
-* Ajit Bapat, CE0, Dataserve Pvt. Ltd., https://www.rightocare.com/ 
+* Ajit Bapat, CEO, Dataserve Pvt. Ltd., https://www.rightocare.com/ 
