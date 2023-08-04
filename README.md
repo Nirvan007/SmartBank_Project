@@ -44,7 +44,7 @@ Smart bank is a connected power bank which has various features like two-way ada
 * 20000 mAh battery capacity
 * USB-A, Type-C and Micro USB support for input and output
 * Simultaneous fast charging (13W per port)
-* Built in high brightness flash
+* Built in high-brightness flash
 
 ## Unique Features
 * Find My Device
